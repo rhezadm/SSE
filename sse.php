@@ -16,12 +16,10 @@ flush();
 
 //     // Create connection
 //     $conn = new mysqli($servername, $username, $password, $dbname);
-
 //     // Check connection
 //     if ($conn->connect_error) {
 //       die("Connection failed: " . $conn->connect_error);
-//     }  
-
+//     } 
 // $sql = "your favorite query";
 // $result = $conn->query($sql);
 // $arrayName = array();
